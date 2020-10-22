@@ -1,1 +1,1 @@
-# lab02_Tsisa
+# lab02_Tsisa Случайный поиск
